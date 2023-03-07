@@ -5,8 +5,8 @@ A JavaScript animation that displays a pair of moving eyes by tracking mouse cur
 
 ## Installation
 In order to run the **"Mouse-Tracking Eyes"** animation, either: 
-I. download this repository's zip file to your local system, or 
-II. clone the GitHub repository to your local system.
+1. download this repository's zip file to your local system, or 
+2. clone the GitHub repository to your local system.
 
 
 *NOTE: you MUST have copies of the 3 required files ('eyes.js', 'index.html', and 'styles.css') on your local system & all files must be stored in the same directory.*
