@@ -1,4 +1,4 @@
-# Mouse-Tracking Eyes
+# Mouse-Tracking-Eyes
 
 ## Description
 A JavaScript animation that displays a pair of moving eyes by tracking mouse cursor positions and movements using DOM manipulation to dynamically style elements within the CSS grid. More specifically, the running code employs event listeners to access DOM elements using CSS-style selectors or relationship properties (i.e., class name `ball`), and then implements programatic functionality by manipulating the element's CSS styling to send `mousemove` events to the `div` element when the mouse cursor moves over the respective element.
