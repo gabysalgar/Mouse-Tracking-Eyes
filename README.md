@@ -1,3 +1,4 @@
+![Screenshot](eyes.jpg)
 # Mouse-Tracking-Eyes
 
 ## Description
